@@ -1,9 +1,11 @@
+
 <template>
-  <div >
-    <Header  />
+    <Header-Market />
 
     <div>
       <slot />
     </div>
-  </div>
+ 
+      <Footer />
+    
 </template>
